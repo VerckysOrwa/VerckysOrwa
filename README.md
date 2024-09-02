@@ -1,5 +1,28 @@
 # 💫 About Me:
-👋 Hi, I'm Verckys Orwa<br>🚀 ERPNext/Frappe & Full-Stack Developer<br>I'm diving deep into enhancing ERPNext systems, focusing on making them more efficient and user-friendly with some cool new modules. Let's collaborate and push the boundaries of Frappe/ERPNext customization!<br>🔧 What I'm up to:<br><br>🛠️ Developing innovative modules for ERPNext<br>🔗 Exploring advanced system integration techniques<br>🛡️ Implementing cutting-edge data security measures<br><br>💡 Current Focus:<br>I'm getting into the nitty-gritty of data security in ERP systems. It's fascinating how advanced measures can tighten up compliance and protect against threats.<br>🌟 Let's Connect!<br>I'm always on the lookout for fresh ideas and technologies that can take ERP systems to the next level. If you have insights or suggestions, I'd love to chat about:<br><br>ERPNext customization strategies<br>Innovative system integration techniques<br>Cutting-edge data security measures<br>Full-stack development best practices<br><br>💬 Ask me about:<br><br>ERPNext customization<br>System integration<br>Full-stack development with ReactJs, NodeJs, and Python or anything considered to be Javascript
+Hi, I'm **Verckys Orwa**<br>**ERPNext/Frappe & Full-Stack Developer**  
+I’m passionate about enhancing ERPNext systems by focusing on efficiency and user experience. With a knack for innovation, I’m currently working on developing cool new modules and pushing the boundaries of Frappe/ERPNext customization.
+
+## 🔭 What I'm upto:
+- 🛠️ Developing innovative modules for ERPNext
+- 🔗 Exploring advanced system integration techniques
+- 🛡️ Implementing cutting-edge data security measures
+
+## 🌱 Current Focus:
+- I’m getting into the nitty-gritty of data security in ERP systems. It’s fascinating how advanced measures can tighten up compliance and protect against threats.
+
+
+## 👯  Let’s Connect!
+I’m always on the lookout for fresh ideas and technologies that can take ERP systems to the next level. If you have insights or suggestions, I’d love to chat about:
+- Open Source ERPNext Projects
+- Custom Frappe Apps
+- Integrations with Third-Party Systems
+
+## 💬 Ask me about:
+- ERPNext Development
+- Frappe Customization
+- Python & JavaScript Programming
+- Full-Stack Development
+
 
 
 ## 🌐 Socials:
