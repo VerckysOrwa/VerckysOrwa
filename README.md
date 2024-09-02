@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm **Verckys Orwa**<br>**ERPNext/Frappe & Full-Stack Developer**  
+👋 Whats up,I'm **Verckys Orwa**<br>**ERPNext/Frappe & Full-Stack Developer**  
 I’m passionate about enhancing ERPNext systems by focusing on efficiency and user experience. With a knack for innovation, I’m currently working on developing cool new modules and pushing the boundaries of Frappe/ERPNext customization.
 
 ## 🔭 What I'm upto:
