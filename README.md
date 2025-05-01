@@ -30,11 +30,6 @@ I’m always on the lookout for fresh ideas and technologies that can take ERP s
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/VerckysOrwa) 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=VerckysOrwa&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=VerckysOrwa&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VerckysOrwa&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=VerckysOrwa&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
