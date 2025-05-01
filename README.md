@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Whats up, I'm **Verckys Orwa**<br>
+👋 Hello, I'm **Verckys Orwa**<br>
 
 **Software Engineer currently focusing on ERP systems development with Frappe/ERPNext**  
 I’m passionate about enhancing ERPNext systems by focusing on efficiency and user experience. With a knack for innovation, I’m currently working on developing cool new modules and pushing the boundaries of Frappe/ERPNext customization.
@@ -29,9 +29,6 @@ I’m always on the lookout for fresh ideas and technologies that can take ERP s
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/VerckysOrwa) 
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=VerckysOrwa&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
