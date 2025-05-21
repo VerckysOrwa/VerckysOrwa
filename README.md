@@ -1,4 +1,3 @@
-# 💫 About Me:
 👋 Hello, I'm **Verckys Orwa**<br>
 
 **Software Engineer currently focusing on ERP systems development with Frappe/ERPNext**  
